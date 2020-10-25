@@ -26,7 +26,7 @@
 - ⚡ Fun fact: I spend almost 2 hours on reading research papers and articles everyday.
 
 [![Twitter: aisujata](https://img.shields.io/twitter/follow/aisujata?style=social)](https://twitter.com/aisujata)
-[![Linkedin: sujatasaini(https://img.shields.io/badge/-sujatasaini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujatasaini/)](https://www.linkedin.com/in/sujatasaini/)
+[![Linkedin: sujatasaini](https://img.shields.io/badge/-sujatasaini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujatasaini/)](https://www.linkedin.com/in/sujatasaini/)
 [![GitHub sujatasaini](https://img.shields.io/github/followers/sujatasaini?label=follow&style=social)](https://github.com/sujatasaini)
 
 
