@@ -1,4 +1,5 @@
 ## Hola, I'm Sujata Saini! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujatasaini&label=Views&color=blue&style=plastic" alt="sujatasaini" /> </p>
 
 - 🔭 I’m currently working on NLP and Deep Learning.
 - 🌱 I’m currently learning more about Information Visualization.
@@ -10,9 +11,6 @@
 - ⚡ Fun fact: I spend almost 2 hours on reading research papers and articles everyday.
 
 ### Connect with me:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
 <a href="https://twitter.com/aisujata">
   <img align="left" alt="Sujata's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
