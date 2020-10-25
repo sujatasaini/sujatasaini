@@ -1,9 +1,5 @@
 ## Hola, I'm Sujata Saini! 👋
 
-<br/>
-<br/>
-
-
 - 🔭 I’m currently working on NLP and Deep Learning.
 - 🌱 I’m currently learning more about Information Visualization.
 - 👯 I’m looking to collaborate on AI-based Tech Projects.
@@ -13,12 +9,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 2 hours on reading research papers and articles everyday.
 
-[![Twitter: aisujata](https://img.shields.io/twitter/follow/aisujata?style=social)](https://twitter.com/aisujata)
-[![Linkedin: sujatasaini](https://img.shields.io/badge/-sujatasaini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujatasaini/)](https://www.linkedin.com/in/sujatasaini/)
-[![GitHub sujatasaini](https://img.shields.io/github/followers/sujatasaini?label=follow&style=social)](https://github.com/sujatasaini)
-
 ### Connect with me:
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
