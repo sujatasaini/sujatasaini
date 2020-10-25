@@ -1,17 +1,5 @@
 ## Hola, I'm Sujata Saini! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
-<a href="https://twitter.com/aisujata">
-  <img align="left" alt="Sujata's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sujatasaini/">
-  <img align="left" alt="Sujata's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/sujatasaini">
-  <img align="left" alt="Sujata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
 <br/>
 <br/>
 
@@ -29,6 +17,23 @@
 [![Linkedin: sujatasaini](https://img.shields.io/badge/-sujatasaini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujatasaini/)](https://www.linkedin.com/in/sujatasaini/)
 [![GitHub sujatasaini](https://img.shields.io/github/followers/sujatasaini?label=follow&style=social)](https://github.com/sujatasaini)
 
+### Connect with me:
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
+<a href="https://twitter.com/aisujata">
+  <img align="left" alt="Sujata's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sujatasaini/">
+  <img align="left" alt="Sujata's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/sujatasaini">
+  <img align="left" alt="Sujata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br/>
+</br>
 
 **Languages and Tools:**  
 
