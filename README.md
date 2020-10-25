@@ -38,6 +38,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+---
+
 ### Stats:
 <a href="https://github.com/sujatasaini">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujatasaini&theme=light&hide_langs_below=1" />
@@ -48,7 +50,7 @@
 </a>
 
 </br>
-
+---
 ### Projects:
 <a href="https://github.com/sujatasaini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujatasaini&repo=sujatasaini.github.io" />
