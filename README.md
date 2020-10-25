@@ -1,4 +1,4 @@
-## Hola, I'm Sujata Saini! 👋
+## Hello, I'm Sujata Saini!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujatasaini&label=Views&color=blue&style=plastic" alt="sujatasaini" /> </p>
 
 - 🔭 I’m currently working on NLP and Deep Learning.
@@ -22,10 +22,8 @@
 </a>
 
 <br/>
-</br>
-
-**Languages and Tools:**  
-
+ 
+### Connect with me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -33,6 +31,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
+</br>
+
+### Stats:
 <a href="https://github.com/sujatasaini">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujatasaini&theme=light&hide_langs_below=1" />
 </a>
@@ -41,6 +42,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujatasaini&show_icons=true&theme=radical" />
 </a>
 
+</br>
+
+### Projects:
 <a href="https://github.com/sujatasaini/Kuzushiji-DropBlock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujatasaini&repo=Kuzushiji-DropBlock=light" />
 </a>
