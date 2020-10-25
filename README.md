@@ -50,7 +50,9 @@
 </a>
 
 </br>
+
 ---
+
 ### Projects:
 <a href="https://github.com/sujatasaini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujatasaini&repo=sujatasaini.github.io" />
