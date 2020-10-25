@@ -43,12 +43,11 @@
 </br>
 
 ### Projects:
-<a href="https://github.com/sujatasaini/Kuzushiji-DropBlock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujatasaini&repo=Kuzushiji-DropBlock=light" />
+<a href="https://github.com/sujatasaini/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujatasaini&repo=sujatasaini.github.io" />
 </a>
-
-<a href="https://github.com/sujatasaini/sujatasaini.github.io">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujatasaini&repo=sujatasaini.github.io=light" />
+<a href="https://github.com/sujatasaini/Kuzushiji-DropBlock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujatasaini&repo=Kuzushiji-DropBlock" />
 </a>
 
 <div align="center">
