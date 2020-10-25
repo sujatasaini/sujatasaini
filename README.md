@@ -43,7 +43,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujatasaini&theme=light&hide_langs_below=1" />
 </a>
 
-![Sujata's github stats](https://github-readme-stats.vercel.app/api?username=sujatasaini&show_icons=true&theme=radical)
+<a href="https://github.com/sujatasaini">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujatasaini&show_icons=true&theme=radical" />
+</a>
 
 <a href="https://github.com/sujatasaini/Kuzushiji-DropBlock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujatasaini&repo=Kuzushiji-DropBlock=light" />
