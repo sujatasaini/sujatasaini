@@ -1,7 +1,8 @@
 ## Hello, I'm Sujata Saini!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujatasaini&label=Views&color=blue&style=plastic" alt="sujatasaini" /> </p>
 
-- 🔭 I’m currently working on NLP and Deep Learning.
+- 😎 I have worked on NLP and Deep Learning.
+- 🔭 I’m currently working on Data Science and AutoML.
 - 🌱 I’m currently learning more about Information Visualization.
 - 👯 I’m looking to collaborate on AI-based Tech Projects.
 - 🤔 I’m looking for help with Web development documentation.
