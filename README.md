@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ronag)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Hello, I'm Sujata Saini!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujatasaini&label=Views&color=blue&style=plastic" alt="sujatasaini" /> </p>
 
