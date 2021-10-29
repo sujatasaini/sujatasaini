@@ -1,6 +1,15 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sujatasaini)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Hello, I'm Sujata Saini!
+  <a target="_blank">
+    <img src="https://github.com/sujatasaini/sujatasaini/blob/master/Hi.gif" width="40px" />
+  </a>
+</h1>
+
+<br/>
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/sujatasaini/sujatasaini/blob/master/work.gif">
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujatasaini&label=Views&color=blue&style=plastic" alt="sujatasaini" /> </p>
 
 - 😎 I have worked on NLP and Deep Learning.
@@ -49,28 +58,8 @@
 
 ---
 
-### Stats:
-<a href="https://github.com/sujatasaini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujatasaini&theme=light&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/sujatasaini">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujatasaini&show_icons=true&theme=radical" />
-</a>
-
-</br>
 
 ---
-
-### Projects:
-<a href="https://github.com/sujatasaini/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujatasaini&repo=sujatasaini.github.io" />
-</a>
-<a href="https://github.com/sujatasaini/Kuzushiji-DropBlock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujatasaini&repo=Kuzushiji-DropBlock" />
-</a>
-
-<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
