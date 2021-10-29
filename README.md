@@ -3,7 +3,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/sujatasaini/sujatasaini/blob/e21134562012d47dad629e63664e1685d51dde25/gif/work5.gif">
+  <img align="right" height="400" width="400" alt="GIF" src="https://github.com/sujatasaini/sujatasaini/blob/e21134562012d47dad629e63664e1685d51dde25/gif/work5.gif">
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujatasaini&label=Views&color=blue&style=plastic" alt="sujatasaini" /> </p>
