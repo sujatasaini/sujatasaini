@@ -1,9 +1,8 @@
-## Hello, I'm Sujata Saini! <img src="https://github.com/sujatasaini/sujatasaini/blob/c9da101ad5b6f0e646ed039369d02c4d59595b8c/gif/Hi.gif" width="40px" />
+## Hello, I'm Sujata Saini! 
 
 <br/>
-<br/>
 <a target="_blank">
-  <img align="right" height="400" width="500" alt="GIF" src="https://github.com/sujatasaini/sujatasaini/blob/0ab63ac15deb5a31b8fcb88057b31a1d957fb6b5/gif/work4.gif">
+  <img align="right" height="400" width="400" alt="GIF" src="https://github.com/sujatasaini/sujatasaini/blob/8a016726d758fbad50910089979961a64572aace/gif/work5.gif">
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujatasaini&label=Views&color=blue&style=plastic" alt="sujatasaini" /> </p>
