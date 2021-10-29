@@ -1,6 +1,4 @@
 ## Hello, I'm Sujata Saini! 
-
-<br/>
 <a target="_blank">
   <img align="right" height="400" width="400" alt="GIF" src="https://github.com/sujatasaini/sujatasaini/blob/8a016726d758fbad50910089979961a64572aace/gif/work5.gif">
 </a>
