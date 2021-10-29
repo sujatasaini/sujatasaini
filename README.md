@@ -50,7 +50,7 @@
 </br>
 
 ---
-
+<div align="center">
 ### Show some ❤️ by starring some of the repositories!
 ---
 ![footer](https://github.com/sujatasaini/sujatasaini/blob/531c58326734740466bda52e9745241f5ab89a78/gif/footer.png)
