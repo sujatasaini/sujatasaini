@@ -1,8 +1,4 @@
-## Hello, I'm Sujata Saini!
-  <a target="_blank">
-    <img src="https://github.com/sujatasaini/sujatasaini/blob/c9da101ad5b6f0e646ed039369d02c4d59595b8c/gif/Hi.gif" width="40px" />
-  </a>
-</h1>
+## Hello, I'm Sujata Saini! <img src="https://github.com/sujatasaini/sujatasaini/blob/c9da101ad5b6f0e646ed039369d02c4d59595b8c/gif/Hi.gif" width="40px" />
 
 <br/>
 <br/>
