@@ -48,8 +48,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 </br>
-
-<div align="center"> ### Show some ❤️ by starring some of the repositories!  </div>
+---
+<div align="center"> ### Show some ❤️ by starring some of the repositories!</div>
 ---
 ![footer](https://github.com/sujatasaini/sujatasaini/blob/531c58326734740466bda52e9745241f5ab89a78/gif/footer.png)
 </div>
