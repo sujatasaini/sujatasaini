@@ -1,13 +1,13 @@
 ## Hello, I'm Sujata Saini!
   <a target="_blank">
-    <img src="https://github.com/sujatasaini/sujatasaini/blob/master/Hi.gif" width="40px" />
+    <img src="https://github.com/sujatasaini/sujatasaini/blob/master/gif/Hi.gif" width="40px" />
   </a>
 </h1>
 
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/sujatasaini/sujatasaini/blob/master/work.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/sujatasaini/sujatasaini/blob/master/gif/work.gif">
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujatasaini&label=Views&color=blue&style=plastic" alt="sujatasaini" /> </p>
