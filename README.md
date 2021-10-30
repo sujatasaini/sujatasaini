@@ -51,7 +51,15 @@
 </br>
 
 ---
-### Show some ❤️ by starring some of the repositories!
+### Github Stats
+<p align="">
+<a href="https://github.com/sujatasaini">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sujatasaini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sujatasaini&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<hr />
 ---
+### Show some ❤️ by starring some of the repositories!
 # ![footer](https://github.com/sujatasaini/sujatasaini/blob/531c58326734740466bda52e9745241f5ab89a78/gif/footer.png)
 ---
