@@ -3,8 +3,7 @@
   <img align="right" height="400" width="400" alt="GIF" src="https://github.com/sujatasaini/sujatasaini/blob/8a016726d758fbad50910089979961a64572aace/gif/work5.gif">
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujatasaini&label=Views&color=blue&style=plastic" alt="Views"> </p>
-<p align="left"> <img src="https://img.shields.io/github/stars/sujatasaini?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujatasaini&label=Views&color=blue&style=plastic" alt="Views"> <img src="https://img.shields.io/github/stars/sujatasaini?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> </p>
 
 - 😎 I have worked on NLP and Deep Learning.
 - 🔭 I’m currently working on Data Science and AutoML.
